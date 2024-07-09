@@ -22,6 +22,6 @@ Dictionary after Modifying an element: {'Name': 'Harsh', 'city': 'Greater Noida'
 
 
 Initial Set : {1, 2, 3, 4, 5}
-List after adding an element :
+List after adding an element : {1, 2, 3, 4, 5, 6}
 Set after Removing an element : {1, 3, 4, 5, 6}
 Set after modifying an element : {3, 4, 5, 6, 10}
