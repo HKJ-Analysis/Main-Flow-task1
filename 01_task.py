@@ -58,7 +58,7 @@ print("Initial Set :",my_set)
 # Adding an element in set.
 
 my_set.add(6)
-print("List after adding an element :",my_set)
+print("Set after adding an element :",my_set)
 
 # Removing an element from set.
 
